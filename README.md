@@ -30,7 +30,7 @@
   <img src="images/2.JPG" height="70%" width="70%" >
   <br/>
   
-  <img src="images/soft3.JPG" height="70%" width="70%" >
+  <img src="images/3.JPG" height="70%" width="70%" >
   <br/>
   
   .
